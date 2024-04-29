@@ -1,0 +1,2 @@
+export const ADD_RECORD='ADD_RECORD'
+export const RECORDS_LISTING='RECORDS_LISTING'
